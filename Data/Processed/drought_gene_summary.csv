@@ -1,0 +1,21 @@
+Probe ID,ORF,Gene Symbol,Gene Title,Log2 Fold Change,Direction,Fold Change
+245627_at,At1g56600,AtGolS2,"AtGolS2 (Arabidopsis thaliana galactinol synthase 2); transferase, transferring glycosyl groups / transferase, transferring hexosyl groups",6.0375006762431624,Upregulated,65.685392958091
+261037_at,At1g17420,LOX3,"LOX3; electron carrier/ iron ion binding / lipoxygenase/ metal ion binding / oxidoreductase, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",5.842551292471096,Upregulated,57.382992163849835
+246340_s_at,At3g44860,FAMT,FAMT (farnesoic acid carboxyl-O-methyltransferase); S-adenosylmethionine-dependent methyltransferase/ farnesoic acid O-methyltransferase,5.418225045189135,Upregulated,42.761040258917475
+248317_at,At5g52680,AT5G52680,copper transport family protein,5.005336287914344,Upregulated,32.11858182550282
+256991_at,At3g28600,AT3G28600,AAA-type ATPase family protein,4.883884017125813,Upregulated,29.525386029176573
+265221_s_at,At2g02010,GAD3,GAD3 (glutamate decarboxylase 3); calmodulin binding,4.802242149823729,Upregulated,27.900946319575077
+263539_at,At2g24850,TAT3,TAT3 (TYROSINE AMINOTRANSFERASE 3); L-tyrosine:2-oxoglutarate aminotransferase/ transaminase,4.725465771158174,Upregulated,26.4549497290589
+250286_at,At5g13320,PBS3,PBS3 (AVRPPHB SUSCEPTIBLE 3),4.64629428946592,Upregulated,25.042284767932173
+248319_at,At5g52710,AT5G52710,copper transport family protein,4.54813184406848,Upregulated,23.39505708884792
+262325_at,At1g64160,AT1G64160,dirigent-like protein DIR5,4.508994963270377,Upregulated,22.76893588882105
+263498_at,At2g42610,LSH10,LSH10 (LIGHT SENSITIVE HYPOCOTYLS 10),-3.4922852547252266,Downregulated,0.0888622662655113
+251072_at,At5g01740,AT5G01740,Nuclear transport factor 2 (NTF2) family protein,-3.163955506216291,Downregulated,0.11157181233839893
+261157_at,At1g34510,AT1G34510,peroxidase 8,-2.8852902312223474,Downregulated,0.13534465026878786
+264014_at,At2g21210,AT2G21210,SAUR-like auxin-responsive protein,-2.629762045247848,Downregulated,0.16157075073453508
+246854_at,At5g26200,AT5G26200,mitochondrial substrate carrier family protein,-2.5672510339382852,Downregulated,0.16872538678373347
+247406_at,At5g62920,ARR6,ARR6 (RESPONSE REGULATOR 6); transcription regulator/ two-component response regulator,-2.5449208975359108,Downregulated,0.17135724582269915
+254550_at,At4g19690,IRT1,IRT1 (iron-regulated transporter 1); cadmium ion transmembrane transporter/ copper uptake transmembrane transporter/ iron ion transmembrane transporter/ manganese ion transmembrane transporter/ zinc ion transmembrane transporter,-2.5141173108745543,Downregulated,0.17505530513725318
+262771_at,At1g13200,AT1G13200,F-box and associated interaction domains-containing protein,-2.5018370411285544,Downregulated,0.17655174173243482
+262373_at,At1g73120,AT1G73120,hypothetical protein,-2.491699615218123,Downregulated,0.17779669167268017
+255648_at,At4g00910,AT4G00910,aluminum activated malate transporter family protein,-2.479945417566259,Downregulated,0.17925118760218753
